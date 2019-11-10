@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="Content-type" content="text/html"; charset=utf-8"/>
     <title>CUNY DATA608/2 - Zachary Herold </title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
@@ -12,7 +10,7 @@
             border: 1px solid green;
         }
         table { 
-            border-spacing: 6px;
+            border-spacing: 2px;
             border-collapse: separate;
         }
     </style>   
