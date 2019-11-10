@@ -81,14 +81,15 @@
 <h1> Module 5 - Part 2</h1>
 <input type="file" id="fileUpload" />
 <input type="button" id="upload" value="Upload" onclick="Upload()" />
-<hr />
-<div id="dvCSV">
-</div>
 <br>
 <div class = "search">
     <label for="myInput">Search an Element</label>
     <input id='myInput' onkeyup='searchTable()' type='text'>
 </div>
+<hr />
+<div id="dvCSV">
+</div>
+
 
 </body>
 </html>
