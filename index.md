@@ -1,8 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="Content-type" content="text/html"; charset=utf-8"/>
-    <script src="C:/Users/zhero/d3.js/d3.min.js"></script>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <title>CUNY DATA608/2 - Module5 - Zachary Herold </title>
 </head>
