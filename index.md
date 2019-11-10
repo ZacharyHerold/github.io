@@ -41,7 +41,7 @@ with the first 20 multiples of the number, in order 5x4 */
         //var num = document.getElementById('numInput').value;
         var mul = num;
         var table;
-        table = "<table border='1px' width='25%' cellspacing='2' cellpadding='2' style='cursor:pointer;'>";
+        table = "<table border='1px' width='10%' cellspacing='2' cellpadding='2' style='cursor:pointer;'>";
         for (var i = 1; i <= 20; i++){
             if (i % 5 == 1){
                 table += "<tr>" ;
